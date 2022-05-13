@@ -1,0 +1,26 @@
+# logs
+/logs/
+
+# pycache
+/__pycache__
+/.idea
+
+/config
+/response_source/*.txt
+
+*__pycache__*
+
+*.json
+*.csv
+
+*.log
+*logs*
+*.out*
+*.xlsx
+*geckodriver.log
+*.gif
+*.mp4
+*.txt
+*.png
+*.pid
+*.ico
